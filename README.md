@@ -35,6 +35,16 @@ A simple Jetpack Compose app example that displays a list of contacts grouped al
 - Styled using Material 3 text styles.  
 
 ---
+## How to Run the App
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/shanji361/LazyColumnStickyHeader.git
+   ```
+2. Open the project in Android Studio.
+
+3. Run the app on an emulator or a physical Android device.   
+---
 
 ## Reference
 Based on **Lecture 3, Example 11** from the course materials.  
